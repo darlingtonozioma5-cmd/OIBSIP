@@ -1,0 +1,5 @@
+Cluster,Customers,Average_Recency,Average_Frequency,Average_Monetary,Average_Purchase_Value,Total_Revenue,Customer_Type,Marketing_Recommendation
+0,713,12.17,13.75,8088.02,623.81,5766757.07,High-value active customers,"Reward loyalty, provide VIP benefits and encourage referrals."
+1,1622,181.51,1.32,341.0,282.45,553099.77,Low-engagement customers,Test low-cost promotions and monitor engagement before increasing marketing spend.
+2,837,17.7,2.19,557.32,278.28,466479.03,Low-engagement customers,Test low-cost promotions and monitor engagement before increasing marketing spend.
+3,1166,71.64,4.08,1801.78,579.69,2100873.02,"Previously frequent, currently inactive customers",Run personalised win-back campaigns and targeted return offers.
