@@ -38,12 +38,12 @@ Dataset source: [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/
 
 ## 6. Results and Findings
 **Update this section with the actual results from your notebook:**
-- Original number of rows:
-- Number of rows after cleaning:
-- Duplicate records removed:
-- Missing values before cleaning:
-- Missing values after cleaning:
-- Number of potential outliers identified:
+- Original number of rows:541909
+- Number of rows after cleaning:534129
+- Duplicate records removed:0
+- Missing values before cleaning:136534
+- Missing values after cleaning:132565
+- Number of potential outliers identified:141888
 
 ## 7. Project Outputs
 The `outputs` folder contains:
