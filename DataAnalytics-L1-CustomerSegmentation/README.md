@@ -83,12 +83,12 @@ The analysis examined customer purchasing behaviour using Recency, Frequency and
 
 The following findings are to be completed using the actual clustering results:
 
-- Total number of customers analysed: [Insert actual number].
-- Number of customer segments created: [Insert selected K].
-- Largest customer segment: [Insert cluster and customer count].
-- Highest-value customer segment: [Identify using actual Monetary values].
-- Least recently active segment: [Identify using actual Recency values].
-- Most frequent purchasing segment: [Identify using actual Frequency values].
+- Total number of customers analysed:4338
+- Number of customer segments created:4
+- Largest customer segment: Cluster 1, with 1622 customers
+- Highest-value customer segment: Cluster 0
+- Least recently active segment: Cluster 1
+- Most frequent purchasing segment: Cluster 0
 
 ## 7. Business Recommendations
 
