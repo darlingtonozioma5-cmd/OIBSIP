@@ -1,0 +1,15 @@
+Column,Data_Type,Missing_Values,Missing_Percentage,Unique_Values
+InvoiceNo,object,0,0.0,23796
+StockCode,string,0,0.0,3938
+Description,string,0,0.0,4031
+Quantity,int64,0,0.0,510
+InvoiceDate,datetime64[ns],0,0.0,21802
+UnitPrice,float64,0,0.0,1628
+CustomerID,float64,132565,24.82,4371
+Country,string,0,0.0,38
+Is_Return,bool,0,0.0,2
+Invalid_UnitPrice,bool,0,0.0,1
+LineTotal,float64,0,0.0,6202
+Quantity_Outlier,bool,0,0.0,2
+UnitPrice_Outlier,bool,0,0.0,2
+LineTotal_Outlier,bool,0,0.0,2
